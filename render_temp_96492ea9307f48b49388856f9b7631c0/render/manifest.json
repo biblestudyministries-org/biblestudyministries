@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "pdfium",
+  "source": "saved",
+  "inputPath": "C:\\Users\\Administrator\\Desktop\\gomani plan 33.pdf",
+  "sourceSha256": "2b6c0c9d526d1e3fcacebcc12e9fccb0a0ddef8aa7ba7ad4825ab85aa66ffda0",
+  "dpi": 144,
+  "pageCount": 4,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "C:\\Users\\Administrator\\Desktop\\Gomani Website 2nd Version\\render_temp_96492ea9307f48b49388856f9b7631c0\\render\\page-0001.png",
+      "width": 2382,
+      "height": 1684,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1588,
+        "height": 1122.6666666666667
+      },
+      "byteLength": 311233
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "C:\\Users\\Administrator\\Desktop\\Gomani Website 2nd Version\\render_temp_96492ea9307f48b49388856f9b7631c0\\render\\page-0002.png",
+      "width": 2382,
+      "height": 1684,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1588,
+        "height": 1122.6666666666667
+      },
+      "byteLength": 282823
+    },
+    {
+      "index": 3,
+      "page": 3,
+      "path": "C:\\Users\\Administrator\\Desktop\\Gomani Website 2nd Version\\render_temp_96492ea9307f48b49388856f9b7631c0\\render\\page-0003.png",
+      "width": 2382,
+      "height": 1684,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1588,
+        "height": 1122.6666666666667
+      },
+      "byteLength": 303184
+    },
+    {
+      "index": 4,
+      "page": 4,
+      "path": "C:\\Users\\Administrator\\Desktop\\Gomani Website 2nd Version\\render_temp_96492ea9307f48b49388856f9b7631c0\\render\\page-0004.png",
+      "width": 2382,
+      "height": 1684,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1588,
+        "height": 1122.6666666666667
+      },
+      "byteLength": 207736
+    }
+  ],
+  "missingFonts": []
+}
